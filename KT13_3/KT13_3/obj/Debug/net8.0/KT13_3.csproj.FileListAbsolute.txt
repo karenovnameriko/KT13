@@ -1,0 +1,14 @@
+/Users/merykarenovna/Projects/KT13_3/KT13_3/bin/Debug/net8.0/KT13_3
+/Users/merykarenovna/Projects/KT13_3/KT13_3/bin/Debug/net8.0/KT13_3.deps.json
+/Users/merykarenovna/Projects/KT13_3/KT13_3/bin/Debug/net8.0/KT13_3.runtimeconfig.json
+/Users/merykarenovna/Projects/KT13_3/KT13_3/bin/Debug/net8.0/KT13_3.dll
+/Users/merykarenovna/Projects/KT13_3/KT13_3/bin/Debug/net8.0/KT13_3.pdb
+/Users/merykarenovna/Projects/KT13_3/KT13_3/obj/Debug/net8.0/KT13_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merykarenovna/Projects/KT13_3/KT13_3/obj/Debug/net8.0/KT13_3.AssemblyInfoInputs.cache
+/Users/merykarenovna/Projects/KT13_3/KT13_3/obj/Debug/net8.0/KT13_3.AssemblyInfo.cs
+/Users/merykarenovna/Projects/KT13_3/KT13_3/obj/Debug/net8.0/KT13_3.csproj.CoreCompileInputs.cache
+/Users/merykarenovna/Projects/KT13_3/KT13_3/obj/Debug/net8.0/KT13_3.dll
+/Users/merykarenovna/Projects/KT13_3/KT13_3/obj/Debug/net8.0/refint/KT13_3.dll
+/Users/merykarenovna/Projects/KT13_3/KT13_3/obj/Debug/net8.0/KT13_3.pdb
+/Users/merykarenovna/Projects/KT13_3/KT13_3/obj/Debug/net8.0/KT13_3.genruntimeconfig.cache
+/Users/merykarenovna/Projects/KT13_3/KT13_3/obj/Debug/net8.0/ref/KT13_3.dll
