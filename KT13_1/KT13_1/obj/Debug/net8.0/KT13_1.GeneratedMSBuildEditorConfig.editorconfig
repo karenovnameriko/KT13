@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KT13_1
-build_property.ProjectDir = /Users/merykarenovna/Projects/KT13_1/KT13_1/
+build_property.ProjectDir = /Users/merykarenovna/Projects/KT13/KT13_1/KT13_1/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

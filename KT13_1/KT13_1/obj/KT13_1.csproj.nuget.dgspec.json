@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/merykarenovna/Projects/KT13_1/KT13_1/KT13_1.csproj": {}
+    "/Users/merykarenovna/Projects/KT13/KT13_1/KT13_1/KT13_1.csproj": {}
   },
   "projects": {
-    "/Users/merykarenovna/Projects/KT13_1/KT13_1/KT13_1.csproj": {
+    "/Users/merykarenovna/Projects/KT13/KT13_1/KT13_1/KT13_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/merykarenovna/Projects/KT13_1/KT13_1/KT13_1.csproj",
+        "projectUniqueName": "/Users/merykarenovna/Projects/KT13/KT13_1/KT13_1/KT13_1.csproj",
         "projectName": "KT13_1",
-        "projectPath": "/Users/merykarenovna/Projects/KT13_1/KT13_1/KT13_1.csproj",
+        "projectPath": "/Users/merykarenovna/Projects/KT13/KT13_1/KT13_1/KT13_1.csproj",
         "packagesPath": "/Users/merykarenovna/.nuget/packages/",
-        "outputPath": "/Users/merykarenovna/Projects/KT13_1/KT13_1/obj/",
+        "outputPath": "/Users/merykarenovna/Projects/KT13/KT13_1/KT13_1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/merykarenovna/.nuget/NuGet/NuGet.Config"
@@ -33,6 +33,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
